@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey there! 👋 
+
+**I'm Daniel, an incoming masters student at USC! I worked as a software engineer @IBM for 3 years, in both AI research and product teams.**
+
+🔭 I'm currently working on a mobile app to incentivize and facilitate spontaneous social hangouts among friends, in Flutter! 🎯
+
+🌱 Also interested in diving deep into the inner workings of LLMs, and the perks and perils of RLHF (reinforcement learning from human feedback) and RAG (retrieval augmented generation).
+
 
 <!--
 **thefirebanks/thefirebanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
