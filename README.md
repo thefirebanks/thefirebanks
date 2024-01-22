@@ -1,6 +1,6 @@
 ### Hey there! 👋 
 
-**I'm Daniel, an incoming masters student at USC! I worked as a software engineer @IBM for 3 years, in both AI research and product teams.**
+**I'm Daniel, a masters student in AI @ USC! I worked as a software engineer @IBM for 3 years, in both AI research and product teams.**
 
 🔭 I'm currently working on a mobile app to incentivize and facilitate spontaneous social hangouts among friends, in Flutter! 🎯
 
