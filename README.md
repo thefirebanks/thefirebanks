@@ -2,7 +2,7 @@
 
 **I'm Daniel, a masters student in AI @ USC! I worked as a software engineer @IBM for 3 years, in both AI research and product teams.**
 
-🔭 I'm currently working on a mobile app to incentivize and facilitate spontaneous social hangouts among friends, in Flutter! 🎯
+🔭 I'm currently working on improving in-context learning for domain-specific tasks 🎯
 
 🌱 Also interested in diving deep into the inner workings of LLMs, and the perks and perils of RLHF (reinforcement learning from human feedback) and RAG (retrieval augmented generation).
 
