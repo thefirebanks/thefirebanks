@@ -1,10 +1,10 @@
 ### Hey there! 👋 
 
-**I'm Daniel, a masters student in AI @ USC! I worked as a software engineer @IBM for 3 years, in both AI research and product teams.**
+**I'm Daniel, a software engineer @Google! Before that, I was a masters student @USC and worked as a software engineer @IBM for 3 years, in both AI research and product teams.**
 
-🔭 I'm currently working on improving in-context learning for domain-specific tasks 🎯
+🔭 I'm currently working on making generative AI useful for your emails! 🎯
 
-🌱 Also interested in diving deep into the inner workings of LLMs, and the perks and perils of RLHF (reinforcement learning from human feedback) and RAG (retrieval augmented generation).
+🌱 Also interested in diving deep into the inner workings of LLMs (reliability, controllability, interpretability) and their potential applications outside of tech (science, sustainability, policy, education).
 
 
 <!--
